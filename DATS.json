@@ -8,7 +8,6 @@
 	],
     "creators": [
         {
-            "@type": "Organization",
             "name": "OpenPain"
         }
     ],
@@ -25,7 +24,7 @@
 	            "value": "fMRI"
 	        }
 	}
-    ], 
+    ],
     "distributions": [
 	        {
 			"formats": [
@@ -57,7 +56,6 @@
     "privacy": "Open Access",
     "isAbout": [
         {
-            "@type": "BiologicalEntity",
             "name": "adult human"
         }
     ],
@@ -78,7 +76,7 @@
                 }
             ]
         },
-	{
+		{
 			"category": "contact",
 			"values": [
 				{
@@ -91,6 +89,17 @@
 			"values": [
 				{
 					"value": "external"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"institute": "Northwestern University",
+					"city": "Evanston",
+					"province": "Illinois",
+					"country": "USA"
 				}
 			]
 		},
