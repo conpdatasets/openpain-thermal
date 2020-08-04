@@ -61,11 +61,10 @@
     ],
     "primaryPublications": [
         {
-            "@type": "Publication",
             "title": "Thermal pain dataset",
             "publicationVenue": "Neuron",
             "authorsList": "Baliki MN, Geha PY, Fields HL, Apkarian AV."
-	}
+		}
     ],
     "extraProperties": [
         {
@@ -93,13 +92,34 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_institution",
 			"values": [
 				{
-					"institute": "Northwestern University",
-					"city": "Evanston",
-					"province": "Illinois",
-					"country": "USA"
+					"value": "Northwestern University"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"value": "Evanston"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"value": "Illinois"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"value": "USA"
 				}
 			]
 		},
