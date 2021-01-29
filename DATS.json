@@ -124,6 +124,14 @@
 			]
 		},
 		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "32"
+				}
+			]
+		},
+		{
 			"category": "files",
 			"values": [
 				{
